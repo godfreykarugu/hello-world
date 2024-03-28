@@ -13,3 +13,5 @@ github/gitlab/bitbucket
 create repo
 git remote add origin url
 git push --set-upstream origin master
+git fetch and merge
+git pull
